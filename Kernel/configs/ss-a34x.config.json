@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi9KernelPoweredBySeparate",
-      "repo": "https://github.com/Separatee/AllinOneKernel",
-      "branch": "main",
-      "device": "cepheus",
-      "defconfig": "cepheus_defconfig"
+      "name": "SamsungA34X",
+      "repo": "https://github.com/xnnnsets/android_kernel_samsung_a34x",
+      "branch": "muach",
+      "device": "a34x",
+      "defconfig": "a34x_defconfig"
     },
     "toolchains": [
       {
